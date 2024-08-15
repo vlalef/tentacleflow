@@ -1,0 +1,14 @@
+{
+    "name": "tentacleflow",
+    "version": "1.0.0",
+    "description": "A simple web-based application where an electric monster interacts with the mouse using HTML, CSS, and JavaScript.",
+    "main": "index.html",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    },
+    "author": "",
+    "license": "MIT"
+}
