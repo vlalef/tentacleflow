@@ -1,0 +1,26 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+  position: fixed;
+  background: black;
+}
+
+.buymeacoffee {
+  text-decoration: none;
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  background: #FFDD00;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  transition: all 0.1s linear;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buymeacoffee svg {
+  fill: black;
+}
